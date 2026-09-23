@@ -1,4 +1,4 @@
-# Hi, I'm wr-porini 👋
+# Hi 👋
 
 Welcome to my GitHub profile.
 
